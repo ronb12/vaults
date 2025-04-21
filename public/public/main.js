@@ -1,1 +1,0 @@
-// Full app logic for transfers, spending, logs, limits, etc.

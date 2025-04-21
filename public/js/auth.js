@@ -1,1 +1,0 @@
-// TODO: Firebase Auth signup/login/logout
